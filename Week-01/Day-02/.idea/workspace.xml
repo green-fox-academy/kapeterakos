@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Day_02" targetName="Day_02" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7604a85-fdac-4423-8aec-18ff9b869816" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/../../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/kapeterakos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Day-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/.idea/average_of_input.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/average_of_input.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/average_of_input.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/average_of_input.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/average_of_input.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/average_of_input.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/average_of_input.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/average_of_input.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/average_of_input.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/average_of_input.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/average_of_input.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/average_of_input.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/average_of_input.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/average_of_input.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/average_of_input.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/average_of_input.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_of_input/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/.idea/bmi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/bmi.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/bmi.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/bmi.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/bmi.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/bmi.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/bmi.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/bmi.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/bmi.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/bmi.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/bmi.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/bmi.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/bmi.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/bmi.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/bmi.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/bmi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/.idea/coding_hours.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/coding_hours.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/coding_hours.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/coding_hours.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/coding_hours.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/coding_hours.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/coding_hours.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/coding_hours.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/coding_hours.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/coding_hours.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/coding_hours.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/coding_hours.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/coding_hours.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/coding_hours.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/coding_hours.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_hours/cmake-build-debug/coding_hours.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/.idea/cuboid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/cuboid.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/cuboid.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/cuboid.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/cuboid.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/cuboid.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/cuboid.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/cuboid.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/cuboid.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/cuboid.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/cuboid.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/cuboid.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/cuboid.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/cuboid.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/cuboid.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cuboid/cmake-build-debug/cuboid.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/.idea/define_basic_info.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/define_basic_info.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/define_basic_info.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/define_basic_info.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/define_basic_info.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/define_basic_info.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/define_basic_info.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/define_basic_info.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/define_basic_info.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/define_basic_info.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/define_basic_info.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/define_basic_info.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/define_basic_info.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/define_basic_info.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/define_basic_info.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/define_basic_info/cmake-build-debug/define_basic_info.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/.idea/favourite_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/favourite_number.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/favourite_number.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/favourite_number.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/favourite_number.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/favourite_number.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/favourite_number.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/favourite_number.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/favourite_number.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/favourite_number.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/favourite_number.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/favourite_number.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/favourite_number.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/favourite_number.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/favourite_number.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite_number/cmake-build-debug/favourite_number.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/.idea/hello_me.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/hello_me.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/hello_me.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/hello_me.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/hello_me.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/hello_me.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/hello_me.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/hello_me.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/hello_me.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/hello_me.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/hello_me.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/hello_me.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/hello_me.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/hello_me.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/hello_me.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_me/cmake-build-debug/hello_me.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_others/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_others/.idea/jello_others.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_others/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_others/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_others/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_others/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_others/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_others/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_others/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_others/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_others/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_others/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_others/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_others/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_others/cmake-build-debug/jello_others.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_others/cmake-build-debug/jello_others.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/.idea/hello_user.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/hello_user.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/hello_user.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/hello_user.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/hello_user.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/hello_user.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/hello_user.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/hello_user.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/hello_user.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/hello_user.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/hello_user.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/hello_user.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/hello_user.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/hello_user.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/hello_user.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_user/cmake-build-debug/hello_user.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/.idea/introduce_yourself.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/introduce_yourself.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/introduce_yourself.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/introduce_yourself.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/introduce_yourself.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/introduce_yourself.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/introduce_yourself.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/introduce_yourself.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/introduce_yourself.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/introduce_yourself.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/introduce_yourself.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/introduce_yourself.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/introduce_yourself.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/introduce_yourself.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/introduce_yourself.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce_yourself/cmake-build-debug/introduce_yourself.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/mileToKilometer.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/mileToKilometer.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/mileToKilometer.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/mileToKilometer.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/mileToKilometer.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/mileToKilometer.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/mileToKilometer.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/mileToKilometer.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/mileToKilometer.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/mileToKilometer.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/mileToKilometer.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/mileToKilometer.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/mileToKilometer.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/mileToKilometer.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mileToKilometer/cmake-build-debug/mileToKilometer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/.idea/odd_even.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/odd_even.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/odd_even.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/odd_even.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/odd_even.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/odd_even.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/odd_even.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/odd_even.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/odd_even.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/odd_even.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/odd_even.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/odd_even.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/odd_even.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/odd_even.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/odd_even.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even/cmake-build-debug/odd_even.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/.idea/seconds_in_a_day.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/seconds_in_a_day.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/seconds_in_a_day.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/seconds_in_a_day.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/seconds_in_a_day.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/seconds_in_a_day.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/seconds_in_a_day.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/seconds_in_a_day.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/seconds_in_a_day.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/seconds_in_a_day.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/seconds_in_a_day.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/seconds_in_a_day.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/seconds_in_a_day.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/CMakeFiles/seconds_in_a_day.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/seconds_in_a_day.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seconds_in_a_day/cmake-build-debug/seconds_in_a_day.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/.idea/swap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/swap.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/swap.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/swap.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/swap.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/swap.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/swap.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/swap.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/swap.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/swap.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/swap.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/swap.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/swap.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/CMakeFiles/swap.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/swap.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/cmake-build-debug/swap.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/.idea/two_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/two_numbers.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/two_numbers.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/two_numbers.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/two_numbers.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/two_numbers.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/two_numbers.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/two_numbers.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/two_numbers.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/two_numbers.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/two_numbers.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/two_numbers.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/two_numbers.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/CMakeFiles/two_numbers.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/two_numbers.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two_numbers/cmake-build-debug/two_numbers.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/.idea/variable_mutation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/variable_mutation.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/variable_mutation.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/variable_mutation.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/variable_mutation.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/variable_mutation.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/variable_mutation.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/variable_mutation.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/variable_mutation.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/variable_mutation.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/variable_mutation.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/variable_mutation.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/variable_mutation.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/CMakeFiles/variable_mutation.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/variable_mutation.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable_mutation/cmake-build-debug/variable_mutation.exe" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="2058014870">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="25" />
+    <option name="width" value="1860" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Day_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day-02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day-02" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Day_02">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_02" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Day_02" TARGET_NAME="Day_02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Day_02" RUN_TARGET_NAME="Day_02">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.Day_02" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7604a85-fdac-4423-8aec-18ff9b869816" name="Default Changelist" comment="" />
+      <created>1540809012028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540809012028</updated>
+      <workItem from="1540809014553" duration="1007000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1540809064142</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540809064142</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1540810542442</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540810542442</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1007000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="CMake" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
