@@ -1,0 +1,3 @@
+C:/Users/Akos/Greenfox/Week-01/Day-02/coding_hours/cmake-build-debug/CMakeFiles/coding_hours.dir
+C:/Users/Akos/Greenfox/Week-01/Day-02/coding_hours/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Akos/Greenfox/Week-01/Day-02/coding_hours/cmake-build-debug/CMakeFiles/rebuild_cache.dir

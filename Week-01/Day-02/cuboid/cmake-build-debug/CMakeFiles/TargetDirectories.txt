@@ -1,0 +1,3 @@
+C:/Users/Akos/Greenfox/Week-01/Day-02/cuboid/cmake-build-debug/CMakeFiles/cuboid.dir
+C:/Users/Akos/Greenfox/Week-01/Day-02/cuboid/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Akos/Greenfox/Week-01/Day-02/cuboid/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/Akos/Greenfox/Week-01/Day-02/jello_others/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Akos/Greenfox/Week-01/Day-02/jello_others/cmake-build-debug/CMakeFiles/jello_others.dir
+C:/Users/Akos/Greenfox/Week-01/Day-02/jello_others/cmake-build-debug/CMakeFiles/edit_cache.dir
