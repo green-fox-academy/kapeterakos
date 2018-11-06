@@ -38,7 +38,7 @@ void inputarray(int array[] , int *lengthpointer)
 
 void maxfunction(int array[] , int *lengthpointer )
 {
-    int max = 0;
+    int max = array[0];
     for (int i = 0; i < *lengthpointer; ++i)
     {
         if(array[i] > max)
