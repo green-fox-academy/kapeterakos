@@ -8,7 +8,7 @@ int main()
     int input[5] = {};
 
     std::cout<<"Give me five numbers"<<std::endl;
-    for (int &i : input) {
+    for (int  i = 0; i < sizeof(input) / sizeof(input[0]); ++i) {
         std::cin>> i;
 
     }
