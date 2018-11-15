@@ -7,7 +7,18 @@
 
 
 class Counter {
+public:
+    Counter(int _field);
 
+    Counter(int _field, int _number);
+
+
+    void add();
+   void get();
+   void reset();
+private:
+    int _field;
+    int _number;
 };
 
 

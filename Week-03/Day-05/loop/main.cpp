@@ -3,8 +3,8 @@
 #include <SDL.h>
 
 //Screen dimension constants
-const int SCREEN_WIDTH = 640;
-const int SCREEN_HEIGHT = 480;
+const int SCREEN_WIDTH = 1280;
+const int SCREEN_HEIGHT = 960;
 
 //Starts up SDL and creates window
 bool init();
@@ -90,7 +90,51 @@ int main( int argc, char* args[] )
         SDL_SetRenderDrawColor(gRenderer, 0xFF, 0xFF, 0xFF, 0xFF);
         SDL_RenderClear(gRenderer);
 
-        
+        int k,j;
+        for (int i = 0; i < 3; ++i)
+        {
+            SDL_SetRenderDrawColor(gRenderer, 000, 000, 000, 0xFF);
+
+            SDL_Rect fillRect = {2, 2,k,j};
+            k++;
+            j++;
+
+            SDL_RenderFillRect( gRenderer, &fillRect );
+
+            SDL_RenderPresent(gRenderer);
+        }
+        int x = SCREEN_WIDTH/2;
+        int y = SCREEN_HEIGHT/2;
+        int space = 20;
+        for (int j = 0; j< SCREEN_WIDTH /space; ++j)
+        {
+            SDL_SetRenderDrawColor(gRenderer, 255 /*R*/, 0 /*G*/, 0 /*B*/, 0xFF /*A*/);
+
+            SDL_RenderDrawLine(gRenderer, j * space ,0 ,x,y);
+        }
+        for (int j = 0; j < SCREEN_HEIGHT / space; ++j)
+        {
+            SDL_SetRenderDrawColor(gRenderer, 0 /*R*/, 255 /*G*/, 0 /*B*/, 0xFF /*A*/);
+
+            SDL_RenderDrawLine(gRenderer, SCREEN_WIDTH,j * space ,x,y);
+        }
+
+        for (int j= 0; j < SCREEN_WIDTH/space; ++j)
+        {
+            SDL_SetRenderDrawColor(gRenderer, 0/*R*/, 0 /*G*/, 255/*B*/, 0xFF /*A*/);
+
+            SDL_RenderDrawLine(gRenderer, j * space ,SCREEN_HEIGHT ,x,y);
+        }
+
+        for (int j = 0; j< SCREEN_HEIGHT/space; ++j)
+        {
+            SDL_SetRenderDrawColor(gRenderer, 128 /*R*/, 0 /*G*/, 128/*B*/, 0xFF /*A*/);
+
+            SDL_RenderDrawLine(gRenderer, 0 ,j * space ,x,y);
+        }
+
+
+
 
         //Update screen
         SDL_RenderPresent(gRenderer);

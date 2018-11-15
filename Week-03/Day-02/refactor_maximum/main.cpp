@@ -1,7 +1,7 @@
 #include <iostream>
 void inputarraylength(int *lengthpointer);
 void inputarray(int array[] , int *lengthpointer);
-void maxfunction(int array[] , int *lengtpointer  );
+void maxfunction(int array[] , int *lengtpointer );
 int main()
 {
     // Refactor time!

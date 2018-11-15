@@ -6,8 +6,23 @@
 #define POST_IT_POSTIT_H
 
 
-class PostIt {
+#include <string>
 
+#include <iostream>
+
+class PostIt {
+public:
+    PostIt(std::string backgroundcolor,std::string text, std::string textcolor);
+    std::string getbackgroundcolor();
+    std::string gettext();
+    std::string gettextcolor();
+
+
+
+private:
+    std::string _color;
+    std::string _text;
+    std::string _textcolor;
 };
 
 

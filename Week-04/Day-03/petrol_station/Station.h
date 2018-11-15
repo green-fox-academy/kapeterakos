@@ -6,8 +6,13 @@
 #define PETROL_STATION_STATION_H
 
 
-class Station {
+#include <string>
 
+class Station {
+public:
+    Station(int gasamount);
+    void fill(std::string car);
+public: int _gasamount;
 };
 
 

@@ -1,12 +1,20 @@
-//
-// Created by Akos on 2018. 11. 13..
-//
+
 
 #ifndef ANIMALS_ANIMALS_H
 #define ANIMALS_ANIMALS_H
 
+#include <iostream>
 
-class animals {
+class Animals {
+public: Animals();
+  void eat();
+void drink();
+void geteat();
+void getdrink();
+
+private:
+    int _hunger;
+    int _thirst;
 
 };
 

@@ -7,7 +7,17 @@
 
 
 class Car {
+public:
+    Car(int gasamount, int capacity);
+    bool isFull();
+    void fill();
 
+    int getGasAmount() const;
+    int GetCapacity() const;
+
+
+public: int _gasamount;
+    int _capacity;
 };
 
 
