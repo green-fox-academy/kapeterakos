@@ -10,7 +10,7 @@ int counter(int n)
     counter(n-1);
 }
 int main() {
-    int num = 5;
-    std::cout<<counter(num);
+
+    std::cout<<counter(6);
     return 0;
 }

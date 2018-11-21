@@ -30,7 +30,6 @@ void draw(Sint16 x1, Sint16 y1, Sint16 x2, Sint16 y2, Sint16 x3, Sint16 y3, int 
     draw( (Sint16)(x1 + (x2 - x1) / 2), y1, x2, y2, (Sint16)(x1 + (x2 - x1) / 4 * 3), (Sint16)(y2 + (y3 - y2) / 2), depth + 1);
     draw( x1, y1, (Sint16)(x1 + (x2 - x1) / 2), y1, (Sint16)(x1 + (x2 - x1) / 4), (Sint16)(y2 + (y3 - y2) / 2), depth + 1);
     draw( (Sint16)(x1 + (x2 - x1) / 4), (Sint16)(y2 + (y3 - y2) / 2), (Sint16)(x1 + (x2 - x1) / 4 * 3), (Sint16)(y2 + (y3 - y2) / 2), x3,y3 , depth+1);
-
 }
 
 bool init()
