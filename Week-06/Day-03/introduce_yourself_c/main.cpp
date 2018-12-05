@@ -6,19 +6,9 @@
 int main()
 
 {
-    //  Example output:
-
-    //  John Doe
-
-    //  31
-
-    //  1.87
-
     char name[20];
     int age;
     float height;
-
-
 
     printf("Please give me your name\n");
     scanf("%s",&name);
