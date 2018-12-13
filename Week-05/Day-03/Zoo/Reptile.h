@@ -10,7 +10,7 @@ class Reptile: public Animal {
 public:
     Reptile(std::string name);
     std::string getName() const;
-    std::string breed() const;
+   std::string breed() const;
 
 };
 

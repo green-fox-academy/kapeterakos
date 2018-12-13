@@ -11,5 +11,5 @@ std::string Mammal::getName() const {
 }
 
 std::string Mammal::breed() const {
-   return  "pushing miniature versions out.";
+    return "pushing miniature versions out.";
 }

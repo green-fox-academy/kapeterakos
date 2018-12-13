@@ -11,7 +11,7 @@ class Mammal: public Animal {
 public:
     Mammal(std::string name);
     std::string getName() const;
-    std::string breed() const;
+    std::string breed()const ;
 };
 
 

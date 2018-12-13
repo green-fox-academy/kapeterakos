@@ -11,6 +11,7 @@ std::string Reptile::getName() const {
     return _name;
 }
 
-std::string Reptile::breed() const {
-   return "laying eggs.";
+std::string Reptile::breed() const{
+    return" laying eggs.";
+
 }
